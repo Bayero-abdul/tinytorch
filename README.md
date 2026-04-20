@@ -1,9 +1,3 @@
-This is a great practice. It shows academic integrity and clearly explains the "Engineering Mindset" behind your project.
-
-Here is a draft for your `README.md` that captures that specific "First Principles" motivation:
-
----
-
 # Hadron
 
 **Hadron** is a lightweight machine learning framework built from scratch in Python and NumPy. 
@@ -31,10 +25,3 @@ This project is guided by the work of the TinyTorch authors:
 > *TinyTorch: Building Machine Learning Systems from First Principles*, arXiv:2601.19107 [cs.LG], 2024.
 
 Special thanks to the **Harvard Edge Computing Group** and the creators of **CS249r** for the curriculum and testing suite.
-
----
-
-### Pro-Tip for your Repo:
-I recommend adding a section called **"Development Log"** at the bottom of your README as you go. For each module, write 1–2 sentences about the hardest "connection" you had to figure out. It makes the repo look incredibly impressive to anyone (like a future employer) who looks at your code!
-
-**Are you ready to commit this to your `hadron` folder and start the Tensor implementation?**
