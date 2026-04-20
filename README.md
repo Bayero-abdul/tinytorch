@@ -7,7 +7,7 @@ The project is a "clean-room" implementation inspired by the **[TinyTorch: Build
 ## The Mission
 The goal of this project is to master the "connective tissue" of modern AI systems. While many libraries allow you to *use* machine learning, **Hadron** is about *engineering* it. By building every component—from the memory layout of Tensors to the recursive logic of Autograd—I aim to understand the structural decisions that make frameworks like PyTorch possible.
 
-## Why Build This? (The Hadron Philosophy)
+## Why Build This?
 This repository follows the 20-module curriculum provided by the **[mlsysbook.ai](https://mlsysbook.ai/)** ecosystem. However, rather than using the provided TinyTorch scaffold (which contains pre-filled logic and skeleton code), I have chosen to build **Hadron** from a blank directory.
 
 **Key Motivations:**
